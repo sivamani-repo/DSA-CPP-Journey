@@ -1,4 +1,9 @@
 # Arrays
+
 This folder contains array-based DSA problems implemented in C++.
-Problems:
-- (Will update daily)
+
+## 📊 Progress
+Total Problems: 1
+
+## 🧠 Problems List
+- Median of Two Sorted Arrays (Hard)

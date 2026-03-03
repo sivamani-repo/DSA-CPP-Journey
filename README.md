@@ -1,23 +1,47 @@
-# DSA C++ Journey
+# DSA-CPP-Journey
+
+## 👨‍💻 Profile
+
+First-Year B.Tech Computer Science student actively building strong foundations in Data Structures & Algorithms using C++.  
+
+This repository documents a structured, topic-wise progression toward internship-level problem-solving proficiency.
+
+---
 
 ## 🎯 Objective
-Computer Science undergraduate systematically mastering Data Structures & Algorithms in C++ with focus on writing clean, optimized, interview-ready solutions.
+
+Develop interview-ready problem-solving skills by:
+- Mastering core DSA concepts
+- Writing optimized C++ implementations
+- Practicing consistent daily problem solving
+- Focusing on clean, maintainable, well-documented code
+
+---
+
+## 🛠 Technical Stack
+
+- Language: C++
+- Compiler Standard: C++17
+- IDE: VS Code
+- Practice Platform: LeetCode
+- Version Control: Git & GitHub
 
 ---
 
 ## 📊 Progress Tracker
 
-| Topic | Problems Solved |
-|-------|-----------------|
-| Arrays | 2 |
-| Linked List | 0 |
-| Recursion | 0 |
-| Stack & Queue | 0 |
-| Trees | 0 |
-| Graphs | 0 |
-| Dynamic Programming | 0 |
+| Topic | Problems Solved | Status |
+|-------|-----------------|--------|
+| Arrays | 2 | In Progress |
+| Linked List | 0 | Pending |
+| Recursion | 0 | Pending |
+| Stack & Queue | 0 | Pending |
+| Trees | 0 | Pending |
+| Graphs | 0 | Pending |
+| Dynamic Programming | 0 | Pending |
 
-**Total Problems Solved:** 2
+**Total Problems Solved: 2**  
+(Target: 100 curated high-quality problems)
 
 ---
 
@@ -33,17 +57,34 @@ DSA-CPP-Journey/
 ├── Graphs/
 └── DP/
 
----
-
-## 🧠 Coding Principles
-
-- Optimal Time & Space Complexity
-- Clean, Readable Code
-- Standard Naming Conventions
-- Edge Case Handling
-- Interview-Focused Approaches
+Each problem file contains:
+- Problem reference (LeetCode ID)
+- Approach explanation
+- Time Complexity
+- Space Complexity
+- Key learning takeaway
 
 ---
 
-## 🔥 Discipline Rule
-Minimum 2 problems per day. Consistency over intensity.
+## 📈 Learning Discipline
+
+- Minimum 2 problems per day
+- Focus on pattern recognition
+- Prioritize optimal over brute-force solutions
+- Regular revision of previously solved problems
+
+---
+
+## 🚀 Current Focus
+
+- Array patterns (Two Pointer, Prefix Sum, Partitioning)
+- Strengthening problem-solving fundamentals
+- Building consistency and coding clarity
+
+---
+
+## 📌 Long-Term Direction
+
+- Internship readiness
+- Strong backend & algorithmic foundation
+- Preparation for high-impact technical roles

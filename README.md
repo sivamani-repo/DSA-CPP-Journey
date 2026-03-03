@@ -15,8 +15,5 @@ C++
 - Graphs
 - Dynamic Programming
 
-## 📊 Progress Tracker
-Day 1: Repository setup
-
 ## 🔥 Daily Rule
 Minimum 2 problems per day.
